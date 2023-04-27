@@ -1,2 +1,2 @@
 # Learning-Python
-Python [Programming
+Python Programming with simple python projects
